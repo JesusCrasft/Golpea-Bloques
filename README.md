@@ -1,5 +1,5 @@
 # Golpea-Bloques
-> Es una aplicacion desarrollada en Python; Es un juego donde tienes que encontrar la llave y buscar cual es la puerta correcta sin chocar con los monstruos.
+> Es una aplicacion desarrollada en Python; Es un juego donde tienes que golpear bloques antes de que acabe el tiempo.
 - Es un juego de practica que desarrolle.
 - Su nombre seria Golpea Bloques o G-B.
 - Tiene unos pequeños errores que se pueden mejorar.
