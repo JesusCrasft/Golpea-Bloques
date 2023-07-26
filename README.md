@@ -1,33 +1,42 @@
 # Golpea-Bloques
-> Es una aplicacion desarrollada en Python; Es un juego donde tienes que golpear bloques antes de que acabe el tiempo.
-- Es un juego de practica que desarrolle.
-- Su nombre seria Golpea Bloques o G-B.
-- Tiene unos pequeños errores que se pueden mejorar.
+> Es un juego donde tienes que golpear bloques antes de que acabe el tiempo.
 
-## Instalación
+> Es un juego de practica que desarrolle.
 
-- Funciona en Linux.
+> Su nombre seria Golpea Bloques o G-B.
 
->Descargar el archivo zip.
+> Aun no esta terminado, lo actualizare cuando se me ocurra algun cambio o quiera probar algo de nuevo.
 
->Extraer el archivo zip.
+## Screenshots / Capturas de Pantalla
 
->Abrir la carpeta.
+## Tech-framework used / Tecnologías Usadas
+- Python
+- Python Library Pygame
+- Python Library Random
 
->Buscar el archivo python.
+## Install / Instalación
+#### OS X, Linux y Windows
 
->Y abrirlo con python.
+Los unicos requisitos son tener instalado Python3, las librerias Pygame y Random
 
-## Instrucciones
+*Descargar el archivo, descomprimirlo y situarse en la carpeta*
 
->Despues comenzara el juego.
+Ejecutar el archivo OTPY.py con Python3 en una terminal.
 
->Tienes que golpear tantos bloques como puedas.
+## Tasks / Lista de Tareas
+- [x] Inicializar repositorio
+- [x] Subir mis primeros cambios a GitHub
+- [x] Completar el codigo
+- [x] Probar el el codigo
+- [x] Hacer el readme
 
->Solo tienes 10 segundos.
+## Contribute / Para contribuir
+1. Has un [Fork](https://github.com/JesusCrasft/Golpea-Bloques/fork)
+2. Crea tu propia rama (git checkout -b feature/fooBar)
+3. Sube tus cambios (git commit -am 'Add some fooBar')
+4. Actualiza tu rama (git push origin feature/fooBar)
+5. Has un "Pull Request"
 
-## Lenguaje
-
->Se utilizo python.
-
->Las librerias usadas fueron tkinter,pygame y random.
+## License / Licencia
+Jesus Angulo – @github/JesusCrasft – jesus.flores.angulo@gmail.com
+Distributed under the MIT license. See [LICENSE](LICENSE) for more information.
